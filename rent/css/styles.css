@@ -162,6 +162,12 @@ h1 {
   font-size: 1.08rem;
 }
 
+.ship {
+  margin: 0.25rem 0 0;
+  color: var(--muted);
+  font-size: 0.98rem;
+}
+
 .pics {
   display: flex;
   flex-wrap: wrap;
